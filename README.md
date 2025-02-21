@@ -5,7 +5,7 @@ I'm a student studying computer science at the University of Pennsylvania's Scho
 
 - <b>Java Projects</b>
   - [2048 Game Remake](https://github.com/lianaxsv/2048game)
-- <b>IOS Projects</b>
+- <b>iOS Projects</b>
   - [Choose Your Own Adventure Text Game](https://github.com/lianaxsv/Choose-Your-Own-Adventure-Game)
 
 <h2> 🤳 Connect with me:</h2>
