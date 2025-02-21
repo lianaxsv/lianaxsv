@@ -1,4 +1,5 @@
 <h1>Hi, I'm Liana!</h1>
+I'm a student studying computer science at the University of Pennsylvania's School of Engineering and Applied Sciences!
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
