@@ -3,6 +3,8 @@ I'm a student studying computer science at the University of Pennsylvania's Scho
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
+- <b>AI/ML Projects</b>
+  - [Pneumonia Detector](https://github.com/lianaxsv/lung-xray)
 - <b>Java Projects</b>
   - [2048 Game Remake](https://github.com/lianaxsv/2048game)
 - <b>iOS Projects</b>
