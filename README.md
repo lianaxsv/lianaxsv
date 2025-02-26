@@ -1,7 +1,7 @@
 <h1>Hi, I'm Liana!</h1>
 I'm a student studying computer science at the University of Pennsylvania's School of Engineering and Applied Sciences!
 
-<h2>👨‍💻 Software Development Projects:</h2>
+<h2> Software Development Projects:</h2>
 
 - <b>AI/ML Projects</b>
   - [Pneumonia Detector](https://github.com/lianaxsv/lung-xray)
@@ -10,7 +10,7 @@ I'm a student studying computer science at the University of Pennsylvania's Scho
 - <b>iOS Projects</b>
   - [Choose Your Own Adventure Text Game](https://github.com/lianaxsv/Choose-Your-Own-Adventure-Game)
 
-<h2> 🤳 Connect with me:</h2>
+<h2> Connect with me:</h2>
 
 [<img align="left" alt="Liana Veerasamy | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
